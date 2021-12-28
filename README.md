@@ -1,6 +1,7 @@
-# bilge_adam_website
+# website
 Html5
 Css3
 Js
 jQuery
+TypeScript
 Responsive
